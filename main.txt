@@ -1,0 +1,6 @@
+A proxy server is kind of gateway between
+our application and the internet. 
+Proxy servers provide varying
+levels of functionality, security, and 
+privacy depending on your use case, needs,
+or company policy.
